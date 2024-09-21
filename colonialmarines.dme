@@ -905,6 +905,7 @@
 #include "code\game\machinery\bots\bots.dm"
 #include "code\game\machinery\bots\cleanbot.dm"
 #include "code\game\machinery\bots\floorbot.dm"
+#include "code\game\machinery\bots\cprbot.dm"
 #include "code\game\machinery\bots\medbot.dm"
 #include "code\game\machinery\bots\mulebot.dm"
 #include "code\game\machinery\camera\camera.dm"
